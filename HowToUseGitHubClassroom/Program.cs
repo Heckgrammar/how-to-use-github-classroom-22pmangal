@@ -21,6 +21,17 @@
             // Output to the console the variable
             // Output to the console Hello World
             // Test your program and add the evidence to this repository
+
+
+                Console.WriteLine("Enter your name");
+    string username = Console.ReadLine();
+    Console.WriteLine(username);
+    Console.WriteLine("Hello world");
+
+
+
+    Console.ReadLine();
+}
         }
     }
 }
